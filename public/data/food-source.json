@@ -1,0 +1,214 @@
+{
+  "repository": "https://github.com/Sanotsu/china-food-composition-data",
+  "commit": "d15675c27582748307023b7ee7aca2a63fc52756",
+  "directory": "json_data_v3_20260825_qwen38max_kimi_k3_fixed",
+  "count": 1643,
+  "duplicatesSkipped": 0,
+  "excluded": [
+    {
+      "file": "merged_其他类-其他.json",
+      "code": "219037",
+      "name": "蜂胶液",
+      "energy": "—"
+    },
+    {
+      "file": "merged_其他类-其他.json",
+      "code": "219041",
+      "name": "蜂王浆",
+      "energy": "—"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192001",
+      "name": "菜籽油［青油］",
+      "energy": "899*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192002",
+      "name": "茶油",
+      "energy": "899*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192003",
+      "name": "大麻油［粟米油］",
+      "energy": "899*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192004",
+      "name": "豆油",
+      "energy": "899*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192005",
+      "name": "红花油",
+      "energy": "899*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192006",
+      "name": "胡麻油",
+      "energy": "900*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192007",
+      "name": "花生油",
+      "energy": "899*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192008",
+      "name": "混合油（菜+棕）",
+      "energy": "900*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192009",
+      "name": "葵花子油",
+      "energy": "899*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192010",
+      "name": "辣椒油",
+      "energy": "900*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192011",
+      "name": "麻子籽",
+      "energy": ""
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192012",
+      "name": "麦胚油",
+      "energy": "899*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192013",
+      "name": "棉籽油",
+      "energy": "899*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192014",
+      "name": "色拉油",
+      "energy": "898*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192015",
+      "name": "椰子油",
+      "energy": "899*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192016",
+      "name": "玉米油",
+      "energy": "895*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192017",
+      "name": "芝麻油［香油］",
+      "energy": "898*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192018",
+      "name": "棕榈油",
+      "energy": "900*"
+    },
+    {
+      "file": "merged_植物油-植物油.json",
+      "code": "192019",
+      "name": "橄榄油",
+      "energy": "899*"
+    },
+    {
+      "file": "merged_菌藻类-藻类.json",
+      "code": "052005",
+      "name": "海冻菜（干）［石花菜，冻菜］",
+      "energy": "un"
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048001",
+      "name": "艾蒿",
+      "energy": "—"
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048002",
+      "name": "白花菜",
+      "energy": "—"
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048003",
+      "name": "白花桔梗",
+      "energy": "—"
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048007",
+      "name": "百里香（鲜）",
+      "energy": "—"
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048012",
+      "name": "刺楸（鲜）",
+      "energy": "—"
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048020",
+      "name": "豆腐柴（鲜）",
+      "energy": "—"
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048022",
+      "name": "独行菜（宽，鲜）",
+      "energy": "—"
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048029",
+      "name": "轮叶党参",
+      "energy": "—"
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048034",
+      "name": "牛至",
+      "energy": ""
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048037",
+      "name": "喷瓜",
+      "energy": "—"
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048038",
+      "name": "婆罗门参（白，鲜）",
+      "energy": "—"
+    },
+    {
+      "file": "merged_蔬菜类及其制品-野生蔬菜类.json",
+      "code": "048039",
+      "name": "婆罗门参（黑，鲜）［鸦葱］",
+      "energy": "—"
+    }
+  ],
+  "notice": "食物成分表截图识别整理数据，准确性需核对；原始数据权利归原作者，公开分发前需核实授权。本项目不调用 OCR 或付费 API。无标准份量重量。"
+}
