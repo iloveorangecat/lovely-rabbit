@@ -1,8 +1,0 @@
-{
-  "version": "reviewed-100g-v3",
-  "count": 179,
-  "commonUnits": 1,
-  "basis": "kcal/100g",
-  "sourceSha256": "6e232b993e77bbb3040c7d4f9019700565caf48364b1ea576d142c90759c9277",
-  "note": "用户明确批准的资料整理均值，未逐项外部核验；不混入缺少每100g热量的623条食物。"
-}
